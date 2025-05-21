@@ -1,4 +1,5 @@
-![Tool Screenshot](images/screenshot.png)
+![Tool Screenshot](Skjermbilde%202025-05-21%20155825.png)
+
 
 
 # Scanner-Toolkit
