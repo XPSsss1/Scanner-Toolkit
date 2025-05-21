@@ -1,3 +1,5 @@
+![Tool Screenshot](Skjermbilde 2025-05-21 155825)
+
 # Scanner-Toolkit
 # Welcome to the scanner toolkit,
 this toolkit is a package full of scanning tools,
