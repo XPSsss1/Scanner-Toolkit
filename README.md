@@ -1,4 +1,4 @@
-![Tool Screenshot](Skjermbilde 2025-05-21 155825)
+[Tool Screenshot](Skjermbilde 2025-05-21 155825)
 
 # Scanner-Toolkit
 # Welcome to the scanner toolkit,
